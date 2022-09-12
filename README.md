@@ -1,2 +1,2 @@
 # rep
-Bla
+print("Hello World")
